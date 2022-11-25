@@ -1,0 +1,3 @@
+- É necessario ter o WAMPSERVER instalando em sua máquina, para poder configurar o servidor e o Banco de Dados.
+- A pasta do projeto tem que estar dentro da pasta www dos arquivos do WAMPSERVER. 
+- Para funcionar, crie um usuario manualmente no Banco de Dados.
